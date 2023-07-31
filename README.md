@@ -8,3 +8,7 @@ This is just a sample code, please feel free to modify to suit requirements.
 Also it is assumed that a Linux based operating system is used. 
 
 This code works perfectly well in Raspberry Pi based operating systems
+
+Please install libfprint before using the code 
+
+sudo apt install libfrint-2-dev
