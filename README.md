@@ -1,5 +1,5 @@
 # fingerprint
-Python code to register and verify finger print with HID Digital Persona 4500 
+Python code to register and verify finger print with Digital Persona 4500 
 
 This progam consists of a few functions to read and check finger prints
 
